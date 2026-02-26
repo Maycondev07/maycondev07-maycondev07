@@ -20,3 +20,7 @@
 ## 🎯 Goals
 
 Become a professional developer and build useful applications.
+
+## 📂 Projects
+
+Check my repositories to see my work!
