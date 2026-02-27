@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Maycon
 
-💻 Python Developer in training  
+💻 Systems Analysis and Development Student
 🌎 São Paulo - Brazil  
 
 ## 🚀 Skills
